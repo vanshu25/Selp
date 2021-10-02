@@ -14,7 +14,7 @@ __TechStack:__ Flask, Machine Learning, Python, HTML, CSS, NumPy, Pickle, Pandas
 
 <img src="https://github.com/vanshu25/Selp/blob/master/images/Screenshot%20(454).png" width="600" height="400" />
 
-<img src="https://github.com/vanshu25/Selp/blob/master/images/Screenshot%20(451).png" width="400" height="300" />
+<img src="https://github.com/vanshu25/Selp/blob/master/images/Screenshot%20(451).png" width="500" height="300" />
 
 
 
